@@ -18,7 +18,7 @@
 
 * Metric learning in computer vision.
 
-* B2C services based on deep learning.
+* services, products based on deep learning.
 
 * Team cultures, Leadership, Psychology
 
